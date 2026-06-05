@@ -7,7 +7,7 @@
 **SudoPath** is a gamified mobile app that turns the Linux command line into an addictive, level-by-level adventure. Hearts, streaks, coins, XP, boss battles and a real terminal engine — built with Flutter and Clean Architecture.
 
 </div>
-![SudoPath](SudoPath.png).
+![SudoPath](SudoPath.png)
 ---
 
 > **Note:** Replace every `<your-username>` below with your real GitHub username before publishing, and drop your screenshots into `docs/screenshots/`.
