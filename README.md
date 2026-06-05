@@ -10,7 +10,6 @@
 ![SudoPath](SudoPath.png)
 
 
-> **Note:** Replace every `<your-username>` below with your real GitHub username before publishing, and drop your screenshots into `docs/screenshots/`.
 
 ## 📖 Overview
 
